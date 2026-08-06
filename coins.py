@@ -1,5 +1,5 @@
 '''flip coins, stop when losing all money'''
-
+'''change in 2026-08-06'''
 import random
 
 def tosscoin():
